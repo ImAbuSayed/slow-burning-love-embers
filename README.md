@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-burning-love-embers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Slow Burning Love Embers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burning-love-embers/) |
+| **Get License** | [Music Rights & Licensing for Slow Burning Love Embers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burning-love-embers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The world outside is fading away
+> But right here with you, I am choosing to stay
+> A candle is burning and catching the light
+> We are leaving the rest of the world to the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
