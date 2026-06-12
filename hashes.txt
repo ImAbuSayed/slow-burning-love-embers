@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Burning Love Embers
+
+This log tracks the cryptographic history and versioning for the song **Slow Burning Love Embers** (slow-burning-love-embers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T13:02:40.181765 | `v1` | `404b5605b1760cc0f3cd37576153eda9fa2ee77eb0eb1ef572edcfcd6f05ee06` | `662a6d8f061e4fa8509ce4d666c0bfac1bbefe295340b829a1c4212eb461c731` | `2026-06-12_slow-burning-love-embers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
